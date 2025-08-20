@@ -49,6 +49,7 @@
 npm run dev
 
 - テストに使われたソースコードや不要なコードとコメントを整理しました。
+```
 
 **スナップショット**
 
@@ -77,4 +78,7 @@ npm run dev
 This project is **NOT open source**.
 All rights reserved by © 2025 John Dev.
 Commercial use is strictly prohibited unless prior written permission is obtained.
+
+```
+
 ```
